@@ -1,6 +1,6 @@
 /*Top header profile image*/
 .profile-small {
     height:150px;
-    border-radius: 50%;
+    border-radius: 100%;
     border: 10px solid #0db4e2;
  }
