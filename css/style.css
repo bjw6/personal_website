@@ -1,4 +1,5 @@
 /*Top header profile image*/
+
 .profile-small {
     height:150px;
     border-radius: 0%;
@@ -9,7 +10,7 @@
 .header {
     padding: 40px;
     text-align: center;
-    background: #f9f7f7;
+    background: #efc4ea;
     margin:30px;
     font-size:20px;
   }
@@ -32,4 +33,21 @@
   margin-bottom: 70px;
   background-color: #FEDE00;
   line-height:2;
+}
+
+/* Large profile image */
+.large-profile {
+  background: url('../images/Wachspress_Headshot.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+/*  Section 3  */
+
+.section-heading {
+  text-align:center;
+  color:#102C4E;
+  margin-top: 150px;
+  margin-bottom:70px;
+  font-size: 35px;
 }
